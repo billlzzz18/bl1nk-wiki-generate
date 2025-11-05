@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --color-neutral-bg: #0f172a;
+    --color-neutral-surface: rgba(15, 23, 42, 0.85);
+    --color-border: #14b8a6;
+  }
+  .light {
+    --color-neutral-bg: #f1f5f9;
+    --color-neutral-surface: rgba(255, 255, 255, 0.9);
+  }
+  body {
+    @apply bg-[var(--color-neutral-bg)] text-white light:text-gray-900;
+  }
+}
