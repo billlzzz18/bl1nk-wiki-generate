@@ -1,0 +1,1 @@
+self.__NEXT_FONT_MANIFEST='{"pages":{},"app":{"/workspaces/bl1nk-wiki-generate/app/layout":["static/media/faa5e7410e7c1c5d-s.p.woff2","static/media/3c365cdafe49b4eb-s.p.woff2","static/media/4642fe567cc45cd6-s.p.woff2"]},"appUsingSizeAdjust":true,"pagesUsingSizeAdjust":false}';
